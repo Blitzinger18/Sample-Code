@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\aum\fall 2019\senior seminar\blackjack final\blackjack object oriented\blackjack object oriented\source.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aum\fall 2019\senior seminar\blackjack final\blackjack object oriented\blackjack object oriented\source.cpp(504): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\aum\fall 2019\senior seminar\blackjack final\blackjack object oriented\blackjack object oriented\source.cpp(306): warning C4101: 'splitHand': unreferenced local variable
+  BlackJack Object Oriented.vcxproj -> D:\AUM\FALL 2019\Senior Seminar\BlackJack Final\BlackJack Object Oriented\Debug\BlackJack Object Oriented.exe

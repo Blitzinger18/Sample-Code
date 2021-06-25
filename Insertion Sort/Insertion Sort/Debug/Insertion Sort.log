@@ -1,0 +1,3 @@
+﻿  insertionSort.cpp
+c:\users\blitz\desktop\fall 2019\algorithms\insertion sort\insertion sort\insertionsort.cpp(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Insertion Sort.vcxproj -> C:\Users\blitz\Desktop\FALL 2019\Algorithms\Insertion Sort\Debug\Insertion Sort.exe

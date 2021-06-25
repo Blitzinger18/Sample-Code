@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\blitz\source\repos\chatroom\chatroom\source.cpp(11): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\blitz\source\repos\chatroom\chatroom\source.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  ChatRoom.vcxproj -> C:\Users\blitz\source\repos\ChatRoom\Debug\ChatRoom.exe

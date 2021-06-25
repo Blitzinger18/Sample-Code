@@ -1,0 +1,4 @@
+﻿  mergeSort.cpp
+c:\users\blitz\desktop\fall 2019\algorithms\merge_insertion_sort_blitzinger\merge_insertion_sort_blitzinger\mergesort.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\blitz\desktop\fall 2019\algorithms\merge_insertion_sort_blitzinger\merge_insertion_sort_blitzinger\mergesort.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Merge_Insertion_Sort_bLitzinger.vcxproj -> C:\Users\blitz\Desktop\FALL 2019\Algorithms\Merge_Insertion_Sort_bLitzinger\Debug\Merge_Insertion_Sort_bLitzinger.exe
