@@ -1,0 +1,6 @@
+﻿  HangMan.cpp
+c:\users\blitz\desktop\flash drive backup\hangman\hangman\hangman.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\blitz\desktop\flash drive backup\hangman\hangman\hangman.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\blitz\desktop\flash drive backup\hangman\hangman\hangman.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\blitz\desktop\flash drive backup\hangman\hangman\hangman.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hangman.vcxproj -> C:\Users\blitz\Desktop\Flash Drive Backup\Hangman\Debug\Hangman.exe
